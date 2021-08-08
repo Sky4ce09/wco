@@ -2,7 +2,11 @@ Wireless Components Only - Schematic Pack
 -----------------------------------------
 
 
+
+
 Content:
+
+
 
 Base
  Components that other components may heavily rely on, mostly the Resource Outpost
@@ -13,6 +17,8 @@ Base
  
  -(OutpostLocate) always built-in where needed
 
+
+
 Defense
 
  Components that may save your ass
@@ -20,6 +26,8 @@ Defense
  this category includes:
  
  -Cyclone Defense Module
+
+
 
 Economy
 
@@ -34,9 +42,13 @@ Economy
  -Plastanium Base
 
 
+
+
 All schematics will have (mostly) descriptive information on what components they require to function in their descriptions.
 
 "Resource Outpost" refers to an available Resource Outpost Link that has been linked to a storage block.
+
+
 
 
 Important info about Resource Outpost Link:
